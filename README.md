@@ -1,2 +1,1 @@
-# react-antd-starter
-React starter application with Ant Design
+# React starter application with Ant Design
